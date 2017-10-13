@@ -1,0 +1,23 @@
+{
+  "name": "pdfkitapp",
+  "version": "1.0.0",
+  "description": "Creating PDF using PDF Kit for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moneypath/PDFKitApp.git"
+  },
+  "author": "MoneyPath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moneypath/PDFKitApp/issues"
+  },
+  "homepage": "https://github.com/moneypath/PDFKitApp#readme",
+  "dependencies": {
+    "momentjs": "^2.0.0",
+    "pdfkit": "^0.8.3"
+  }
+}
